@@ -11,9 +11,9 @@ const TaskListComponent = () => {
     LEVELS.NORMAL
   );
 
-  // const changeState = (id) => {
-  //   console.log("TODO: cambiar estado de una tarea");
-  // };
+  const changeState = (id) => {
+    console.log("TODO: cambiar estado de una tarea");
+  };
 
   return (
     <div>
